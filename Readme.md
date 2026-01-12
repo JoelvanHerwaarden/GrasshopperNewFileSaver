@@ -24,6 +24,10 @@ This ensures you never lose work when starting a new Grasshopper file.
 - Checks if the document has no `FilePath` (unsaved).
 - Uses `GH_DocumentIO.SaveQuiet()` to save the file.
 
+> **Important:**  
+> This plugin **only saves the document once when it is created** and has no file path.  
+> After that, you should rely on Grasshopper’s built-in **Autosave** feature for ongoing backups.
+
 ---
 
 ## 📂 Installation
