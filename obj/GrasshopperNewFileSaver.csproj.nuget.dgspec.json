@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JoëlvanHerwaarden\\Documents\\Github\\GrasshopperNewFileSaver\\GrasshopperNewFileSaver.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JoëlvanHerwaarden\\Documents\\Github\\GrasshopperNewFileSaver\\GrasshopperNewFileSaver.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JoëlvanHerwaarden\\Documents\\Github\\GrasshopperNewFileSaver\\GrasshopperNewFileSaver.csproj",
+        "projectName": "GrasshopperNewFileSaver",
+        "projectPath": "C:\\Users\\JoëlvanHerwaarden\\Documents\\Github\\GrasshopperNewFileSaver\\GrasshopperNewFileSaver.csproj",
+        "packagesPath": "C:\\Users\\JoëlvanHerwaarden\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JoëlvanHerwaarden\\Documents\\Github\\GrasshopperNewFileSaver\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\JoëlvanHerwaarden\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Grasshopper": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[8.0.23304.9001, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

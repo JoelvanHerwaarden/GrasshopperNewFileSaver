@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "w7BsVOZ6/dA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JoëlvanHerwaarden\\Documents\\Github\\GrasshopperNewFileSaver\\GrasshopperNewFileSaver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JoëlvanHerwaarden\\.nuget\\packages\\grasshopper\\8.0.23304.9001\\grasshopper.8.0.23304.9001.nupkg.sha512",
+    "C:\\Users\\JoëlvanHerwaarden\\.nuget\\packages\\rhinocommon\\8.0.23304.9001\\rhinocommon.8.0.23304.9001.nupkg.sha512"
+  ],
+  "logs": []
+}

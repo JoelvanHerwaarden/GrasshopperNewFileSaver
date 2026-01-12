@@ -1,0 +1,5 @@
+C:\Users\JoëlvanHerwaarden\Documents\Github\GrasshopperNewFileSaver\obj\Debug\net7.0\GrasshopperNewFileSaver.csproj.AssemblyReference.cache
+C:\Users\JoëlvanHerwaarden\Documents\Github\GrasshopperNewFileSaver\obj\Debug\net7.0\GrasshopperNewFileSaver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoëlvanHerwaarden\Documents\Github\GrasshopperNewFileSaver\obj\Debug\net7.0\GrasshopperNewFileSaver.AssemblyInfoInputs.cache
+C:\Users\JoëlvanHerwaarden\Documents\Github\GrasshopperNewFileSaver\obj\Debug\net7.0\GrasshopperNewFileSaver.AssemblyInfo.cs
+C:\Users\JoëlvanHerwaarden\Documents\Github\GrasshopperNewFileSaver\obj\Debug\net7.0\GrasshopperNewFileSaver.csproj.CoreCompileInputs.cache
