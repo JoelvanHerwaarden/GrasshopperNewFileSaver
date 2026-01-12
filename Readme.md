@@ -36,5 +36,15 @@ This ensures you never lose work when starting a new Grasshopper file.
 - Go to the Releases section of this repository.
 - Download the latest `.GHA` file.
 
-### 2. **Install the Plugin**
+### 2. **Unblock the File**
+Windows may block downloaded `.GHA` files for security reasons.  
+To unblock:
+1. Right-click the `.GHA` file.
+2. Select **Properties**.
+3. At the bottom of the dialog, check **Unblock**.
+4. Click **OK**.
+
+---
+
+### 3. **Install the Plugin**
 - Copy the `.GHA` file to your Grasshopper **Libraries** folder:
