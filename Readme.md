@@ -1,10 +1,10 @@
 
 # Grasshopper AutoSave on New Document
 
-This plugin automatically saves any **new Grasshopper document** that has not yet been saved by the user.  
+This Grasshopper plugin automatically saves any **new Grasshopper document** that has not yet been saved by the user.  
 When a new document is created and has no file path, the plugin will:
 
-- Create an `GrasshopperAutoSaves` folder inside your **Documents** directory.
+- Create a `GrasshopperAutoSaves` folder inside your **Documents** directory.
 - Save the new document with a timestamped filename (e.g., `NewGHFile_20260112_140600.gh`).
 
 This ensures you never lose work when starting a new Grasshopper file.
@@ -28,13 +28,9 @@ This ensures you never lose work when starting a new Grasshopper file.
 
 ## 📂 Installation
 
-### 1. **Build the Plugin**
-- Open the project in **Visual Studio**.
-- Target **.NET Framework 4.8** (recommended for Rhino 7).
-- Add references to:
-  - `RhinoCommon.dll` (found in `C:\Program Files\Rhino 7\System`)
-  - `Grasshopper.dll` (found in `C:\Program Files\Rhino 7\Plug-ins\Grasshopper`)
-- Compile the project. This will produce a `.GHA` file in your `bin\Release` folder.
+### 1. **Download the Plugin**
+- Go to the Releases section of this repository.
+- Download the latest `.GHA` file.
 
 ### 2. **Install the Plugin**
-- Copy the compiled `.GHA` file to your Grasshopper **Libraries** folder:
+- Copy the `.GHA` file to your Grasshopper **Libraries** folder:
