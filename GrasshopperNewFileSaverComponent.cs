@@ -30,6 +30,7 @@ public class AutoSaveOnNewDoc : GH_AssemblyPriority
 
                 string filename = $"NewGHFile_{DateTime.Now:yyyyMMdd_HHmmss}.gh";
                 string fullPath = Path.Combine(folder, filename);
+                doc.FilePath = fullPath;
                 var io = new GH_DocumentIO(doc);
                 io.SaveQuiet(fullPath);
             }

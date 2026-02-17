@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{A9AE0612-5D63-0F16-34DA-245BB16C6C98}|GrasshopperNewFileSaver.csproj|solutionrelative:grasshoppernewfilesavercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A9AE0612-5D63-0F16-34DA-245BB16C6C98}|GrasshopperNewFileSaver.csproj|c:\\users\\jo\u00EBlvanherwaarden\\documents\\github\\grasshoppernewfilesaver\\grasshoppernewfilesaver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A9AE0612-5D63-0F16-34DA-245BB16C6C98}|GrasshopperNewFileSaver.csproj|solutionrelative:grasshoppernewfilesaver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9AE0612-5D63-0F16-34DA-245BB16C6C98}|GrasshopperNewFileSaver.csproj|c:\\users\\jo\u00EBlvanherwaarden\\documents\\github\\grasshoppernewfilesaver\\grasshoppernewfilesaverinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9AE0612-5D63-0F16-34DA-245BB16C6C98}|GrasshopperNewFileSaver.csproj|solutionrelative:grasshoppernewfilesaverinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,11 +29,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "GrasshopperNewFileSaver",
+              "DocumentMoniker": "C:\\Users\\Jo\u00EBlvanHerwaarden\\Documents\\Github\\GrasshopperNewFileSaver\\GrasshopperNewFileSaver.csproj",
+              "RelativeDocumentMoniker": "GrasshopperNewFileSaver.csproj",
+              "ToolTip": "C:\\Users\\Jo\u00EBlvanHerwaarden\\Documents\\Github\\GrasshopperNewFileSaver\\GrasshopperNewFileSaver.csproj",
+              "RelativeToolTip": "GrasshopperNewFileSaver.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-28T15:11:29.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
@@ -40,12 +60,8 @@
               "WhenOpened": "2026-01-12T13:09:04.648Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GrasshopperNewFileSaver.csproj",
               "DocumentMoniker": "C:\\Users\\Jo\u00EBlvanHerwaarden\\Documents\\Github\\GrasshopperNewFileSaver\\GrasshopperNewFileSaver.csproj",
               "RelativeDocumentMoniker": "GrasshopperNewFileSaver.csproj",
@@ -57,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GrasshopperNewFileSaverInfo.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00EBlvanHerwaarden\\Documents\\Github\\GrasshopperNewFileSaver\\GrasshopperNewFileSaverInfo.cs",
               "RelativeDocumentMoniker": "GrasshopperNewFileSaverInfo.cs",
@@ -65,8 +81,7 @@
               "RelativeToolTip": "GrasshopperNewFileSaverInfo.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T12:58:07.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T12:58:07.885Z"
             },
             {
               "$type": "Document",
@@ -76,18 +91,10 @@
               "RelativeDocumentMoniker": "GrasshopperNewFileSaverComponent.cs",
               "ToolTip": "C:\\Users\\Jo\u00EBlvanHerwaarden\\Documents\\Github\\GrasshopperNewFileSaver\\GrasshopperNewFileSaverComponent.cs",
               "RelativeToolTip": "GrasshopperNewFileSaverComponent.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBMAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-12T12:47:44.994Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
             }
           ]
         }

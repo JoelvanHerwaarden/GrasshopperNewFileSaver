@@ -7,3 +7,4 @@ C:\Users\JoëlvanHerwaarden\Documents\Github\GrasshopperNewFileSaver\obj\Debug\n
 C:\Users\JoëlvanHerwaarden\Documents\Github\GrasshopperNewFileSaver\obj\Debug\net48\GrasshopperNewFileSaver.csproj.CoreCompileInputs.cache
 C:\Users\JoëlvanHerwaarden\Documents\Github\GrasshopperNewFileSaver\obj\Debug\net48\GrasshopperNewFileSaver.gha
 C:\Users\JoëlvanHerwaarden\Documents\Github\GrasshopperNewFileSaver\obj\Debug\net48\GrasshopperNewFileSaver.pdb
+C:\Users\JoëlvanHerwaarden\Documents\Github\GrasshopperNewFileSaver\obj\Debug\net48\GrasshopperNewFileSaver.sourcelink.json
